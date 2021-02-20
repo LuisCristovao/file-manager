@@ -1,18 +1,21 @@
-function getElement(id){
-    return document.getElementById(id)
-}
-function overwriteData(){
-    
-}
+import { getEl } from ".utils.js";
+// const APPS_DIV = "apps";
+// const HEADER_DIV = "apps";
 
-function appendData(){
+// function createApps() {
+//   const apps = getApps();
+//   renderApps(sortApps(filterApps(apps)));
+// }
 
-}
+// function createSearch() {
+//   Utils.getEl(HEADER_DIV);
+// }
 
-function createIcon(){
+// function createPage() {
+//   createSettings();
+//   createSearch();
+//   createApps();
+// }
 
-}
-
-function createPage(){
-
-}
+// createPage();
+// window.addEventListener("resize", () => createPage());

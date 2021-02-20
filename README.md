@@ -10,10 +10,11 @@ Bookmarks manager to use on browser app open source
 - Grid of bookmarks
 - Search
 - Import/export
-- Sync
+- P2P Sync
 - Sort by name and by most clicks
+- No dependencies besides peers.js
 # Optional
 - Custom Background 
 - Folder system with drag drop
-- P2P Sync
 
+## create apps
