@@ -1,4 +1,4 @@
-import { getEl } from ".utils.js";
+import { getEl } from "./utils.js";
 // const APPS_DIV = "apps";
 // const HEADER_DIV = "apps";
 
