@@ -16,7 +16,7 @@ A no account, free, transparent Bookmarks manager to use on browser app open sou
 - Sort by name and by most clicks
 - No dependencies besides peers.js
 
-## Optional
+# Optional
 
 - Custom Background
 - Folder system
@@ -28,3 +28,24 @@ A no account, free, transparent Bookmarks manager to use on browser app open sou
 - Export/Import
 - Order
 - Theme
+
+# DataStructer
+{
+    apps:[
+        {
+            name:"",
+            url:"",
+            clicks:"",
+            position:{x:4,y:1}
+        },
+        {
+            ...
+        }
+    ]
+    settings:{}
+
+}
+
+# App render
+
+This 
