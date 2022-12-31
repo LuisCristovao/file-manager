@@ -2,3 +2,14 @@
     overflow: auto;
     height: 200px;
 }
+body{
+    background-color: black;
+    color: aliceblue;
+}
+input {
+    background-color: black;
+    border-color: whitesmoke;
+    color: whitesmoke;
+    border-radius: 6px;
+    height: 23px;
+  }
