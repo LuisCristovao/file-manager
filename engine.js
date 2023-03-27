@@ -17,7 +17,7 @@ function createCircle(x, y, radius, color, id) {
   if (id != "" || id != null) {
       circle.setAttribute("id", id)
   }
-  circle.setAttribute("style", `left:${x}px;top:${y}px;width:${radius};height:${radius};background-color:${color};position:absolute;border-radius:50%`)
+  circle.setAttribute("style", `left:${x}px;top:${y}px;width:${radius}px;height:${radius}px;background-color:${color};position:absolute;border-radius:50%`)
   return circle
 }
 function createDiffCircle(x, y, radiusx,radiusy, color, id){
